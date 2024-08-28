@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import '../Model/model.dart';
 
 class DetailScreen extends StatefulWidget {
-  final Movie movie;
+  final  movie;
   const DetailScreen({super.key, required this.movie});
 
   @override
